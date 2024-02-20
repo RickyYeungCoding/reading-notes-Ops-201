@@ -6,3 +6,5 @@ For Windows operating system it typically takes 10-30 minutes for system restore
 By opening rstrui.exe in the command prompt window which will make the system restore wizard to pop up. Then following the instructions will help complete the process. 
 ## What options are available if System Restore did not fix the problem?
 If system restore did not fix your issue, you can always restore from a different restore point.
+## Things I want to know more about
+How do you process a system restore on MAC OS?
