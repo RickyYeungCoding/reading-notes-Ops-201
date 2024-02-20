@@ -6,3 +6,5 @@ Hard skills are skills like technical support while soft skills are communicatio
 Its important for help desk technicians to have some security skills because of rising cybersecurity threats and data protection.
 ## How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?
 These two skills are very important as they contribute to how effectively they communicate and problem solve. This makes the process of their job a lot more efficient if they contain these skills to start off.
+## Things I want to know more about
+How do you ensure that written communication with customers are understandable when explaining technical concepts?
