@@ -1,4 +1,4 @@
-## bWhat is a Standard Operating Procedure (SOP), and why is it important for an organization?
+## What is a Standard Operating Procedure (SOP), and why is it important for an organization?
 Its step by step instructions that outline the routine of routine operations processes and Its important  because you need to clearly define your goals and objectives.
 ## What are the three types of documents that should be included in an SOP manual? Briefly describe each type.
 First one is standard operating procedures , it outlines the sequence of activities that need to be done. Second is forms and templates, its a record to of specific information related to the task. Third is work instructions, its specific instructions on nuances and specific detail that is critical and recurs more attention. 
